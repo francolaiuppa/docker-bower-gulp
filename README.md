@@ -1,3 +1,6 @@
+# DEPRECATED
+## This project has been deprecated in favor of the [Official nodejs-bower-gulp Dockerfile](https://github.com/dockerfile/nodejs-bower-gulp).
+
 # docker-bower-gulp
 node 5.3 image using bower &amp; gulp for frontend javascript development
 
